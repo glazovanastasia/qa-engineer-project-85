@@ -1,0 +1,93 @@
+---
+- summary: |
+    Проверка регистрации пользователя
+  status: pass
+
+- summary: |
+    Проверка входа пользователя с существующими логином и паролем
+  status: pass
+
+- summary: |
+    Проверка входа по email
+  status: pass
+
+- summary: |
+    Проверка входа пользователя с несуществующими логином и паролем
+  status: pass
+
+- summary: |
+    Проверка авторизации через github
+  status: pass
+
+- summary: |
+    Проверка авторизации через discord
+  status: pass
+
+- summary: |
+    - summary: |
+    Проверка открытия профиля
+  status: pass
+
+- summary: |
+    Проверка выбора уровня сложности
+  status: pass
+
+- summary: |
+    Проверка выбора языка программирования
+  status: pass
+
+- summary: |
+    Проверка выбора времени раунда
+  status: pass
+
+- summary: |
+    Проверка сброса в редакторе
+  status: pass
+
+- summary: |
+    Проверка выбора задачи
+  status: pass
+
+- summary: |
+    Проверка выхода из игры
+  status: pass
+
+- summary: |
+    Проверка работы чата
+  status: pass
+
+- summary: |
+    Проверка удаления аккаунта
+  status: fail
+
+- summary: |
+    Проверка работы вкладки "TOURNAMENTS"
+  status: pass
+
+- summary: |
+    Проверка работы вкладки "COMPLETED GAMES"
+  status: pass
+
+- summary: |
+    Проверка адаптивной вёрстки сайта
+  status: pass
+
+- summary: |
+    Проверка кроссбраузерности сайта
+  status: pass
+
+- summary: |
+    Проверка сайта на мультиязычность
+  status: fail
+
+- summary: |
+    Проверка отображения рейтинга
+  status: pass
+
+- summary: |
+    Проверка описания кнопок
+  status: pass
+
+- summary: |
+    Проверка отправки сообщения
+  status: pass
