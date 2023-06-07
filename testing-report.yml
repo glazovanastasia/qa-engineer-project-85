@@ -57,10 +57,6 @@
   status: pass
 
 - summary: |
-    Проверка удаления аккаунта
-  status: fail
-
-- summary: |
     Проверка работы вкладки "TOURNAMENTS"
   status: pass
 
